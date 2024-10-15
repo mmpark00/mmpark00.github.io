@@ -23,7 +23,9 @@ Hi! My name is Mare-Maria Park.
 <span style="color: red">Under Construction!</span>
 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a linguist specializing in French linguistics and translation. I hold a Bachelor's in French Language and Literature from Ewha Womans University and am pursuing my Master's at Seoul National University. My work spans tutoring, translation, and research, including AI translation and cultural projects like co-authoring a section on Korean art for Voyage en Asie-Pacifique.
+
+Feel free to explore my work or reach out for collaboration!
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
