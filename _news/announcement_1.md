@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-04-02 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+The book I translated is finally published!
+
+Here is the link: https://m.yes24.com/Goods/Detail/99043566
+
