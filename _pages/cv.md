@@ -1,13 +1,15 @@
 ---
 layout: cv
 permalink: /cv/
-title: NOT UPLOADED Please see pdf
+title: cv
 nav: true
 nav_order: 5
 cv_pdf: Mare_Maria_Park_CV.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: NOT UPLOADED Please see pdf
 toc:
   sidebar: left
 ---
 
-<span style="color: red">Under Construction!</span>
+NOT UPLOADED Please see pdf
+
+<span style="color: red">NOT UPLOADED Please see pdf</span>
